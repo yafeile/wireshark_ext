@@ -7,7 +7,6 @@
 """
 from __future__ import unicode_literals, print_function
 import six
-from io import BytesIO
 
 def copy_from_wireshark(raw):
     """
